@@ -1,16 +1,30 @@
-# myapp
+# 🌸 Flower App
 
-A new Flutter project.
+A beautiful Flutter-based mobile app that allows users to upload, display, and manage flower images with favorite and profile features. Built with a focus on clean UI and intuitive interactions, the Flower App is perfect for learning and showcasing Flutter development, image handling, and state management using Provider.
 
-## Getting Started
+## 📱 Features
 
-This project is a starting point for a Flutter application.
+- 🌼 **Upload Images**: Select and preview multiple flower images.
+- 📝 **Add Title & Body**: Input a title and description for your gallery.
+- 🧡 **Mark Favorites**: Tap the heart icon to mark or unmark favorites.
+- 👤 **Profile Page**:
+  - Edit your name and bio.
+  - Upload a profile picture using (Gallery, Camera).
+  - You also can delete it.
+  
+- 💾 **Data Management**: Uses `Uint8List` to handle image bytes for Flutter web compatibility.
+- 🧭 **Navigation**: Navigate easily between screens using `Navigator` and `Provider`.
 
-A few resources to get you started if this is your first Flutter project:
+## 🔧 Technologies
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Flutter**
+- **Provider (State Management)**
+- **Image Picker**
+- **Dart (Null Safety Enabled)**
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🖼️ Screenrecording
+
+
+
+
+
