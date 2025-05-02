@@ -1,4 +1,4 @@
-# Name: Merola Ashraf Massoud       # ID: 230826220
+# Name: Merola Ashraf Massoud                      ID: 230826220
 # 🌸 Flower App
 
 A beautiful Flutter-based mobile app that allows users to upload, display, and manage flower images with favorite and profile features. Built with a focus on clean UI and intuitive interactions, the Flower App is perfect for learning and showcasing Flutter development, image handling, and state management using Provider.
