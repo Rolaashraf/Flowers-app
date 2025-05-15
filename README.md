@@ -68,7 +68,8 @@ A beautiful Flutter app for flower enthusiasts to collect, organize, and get ins
 
 
 ## 🖼️ Screenrecording
-https://github.com/Rolaashraf/Flowers-app/releases/tag/video
+https://github.com/user-attachments/assets/3e86a208-e324-406f-b796-b5cfcc1375f2
+
 
 
 
