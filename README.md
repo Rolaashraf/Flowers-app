@@ -1,27 +1,71 @@
 # Name: Merola Ashraf Massoud                      ID: 230826220
-# 🌸 Flower App
+# 🌸 Flowers App
 
-A beautiful Flutter-based mobile app that allows users to upload, display, and manage flower images with favorite and profile features. Built with a focus on clean UI and intuitive interactions, the Flower App is perfect for learning and showcasing Flutter development, image handling, and state management using Provider.
+A beautiful Flutter app for flower enthusiasts to collect, organize, and get inspired - with image uploads, favorites management, daily quotes, and profile customization.
+
 
 ## 📱 Features
 
-- 🌼 **Upload Images**: Select and preview multiple flower images.
-- 📝 **Add Title & Body**: Input a title and description for your gallery.
-- 🧡 **Mark Favorites**: Tap the heart icon to mark or unmark favorites.
-- 👤 **Profile Page**:
-  - Edit your name and bio.
-  - Upload a profile picture using (Gallery, Camera).
-  - You also can delete it.
-  
-- 💾 **Data Management**: Uses `Uint8List` to handle image bytes for Flutter web compatibility.
-- 🧭 **Navigation**: Navigate easily between screens using `Navigator` and `Provider`.
+### ✨ Core Features
+- **Dashboard** displaying all flower entries
+- **Add New Flowers** with image uploads
+- **Favorite System** with counter badge
+- **User Profile** with photo editing
+- **Inspirational Quotes** from API
+- **About Us** page with contact options
+
+### 🌷 Flower Management
+- **Add Item Page**:
+  - Upload multiple flower images
+  - Add titles and descriptions
+  - Preview before posting
+- **Dashboard Display**:
+  - Grid view of all flowers
+  - Quick favorite toggle
+  - Tap to view details
+
+### ❤️ Favorites System
+- Heart icons to mark favorites
+- Dedicated favorites page
+- Badge counter in navigation
+- Persists between sessions
+
+### 📖 About Us Page
+- Contact options:
+  - 📞 Call 
+  - ✉️ Email
+  - 📍 Locate
+  - ↗️ Share
+- App information
+- Developer details
+
+### 🧠 Daily Quotes
+- Fetches inspirational quotes via API
+- Displays:
+  - Quote text
+  - Author
+  - Category
+- Refresh functionality
+
+### 👤 Profile Management
+- Edit personal details:
+  - Name
+  - Bio
+- Profile picture:
+  - 📸 Camera upload
+  - 🖼️ Gallery selection
+  - ❌ Delete option
 
 ## 🔧 Technologies
+| Category        | Technologies Used |
+|----------------|------------------|
+| Framework      | Flutter          |
+| State Management | Provider        |
+| Image Handling | Image Picker, Uint8List |
+| Networking     | HTTP             |
+| Navigation     | Flutter Navigator|
 
-- **Flutter**
-- **Provider (State Management)**
-- **Image Picker**
-- **Dart (Null Safety Enabled)**
+
 
 ## 🖼️ Screenrecording
 https://github.com/Rolaashraf/Flowers-app/releases/tag/video
