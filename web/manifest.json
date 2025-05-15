@@ -1,6 +1,11 @@
 {
+<<<<<<< HEAD
     "name": "hello_world",
     "short_name": "hello_world",
+=======
+    "name": "myapp",
+    "short_name": "myapp",
+>>>>>>> ab7297007726b123278549910bd453a47f0598a5
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
